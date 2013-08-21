@@ -1,3 +1,4 @@
+require 'encoding_dot_com/parsedatefix'
 require 'encoding_dot_com/errors'
 require 'encoding_dot_com/queue'
 require 'encoding_dot_com/attribute_restrictions'
